@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "express-session": "^1.11.3"
+  },
+  "scripts": {
+    "postinstall": "cd www && npm install && cd .."
+  },
+  "repository": "gabmontes/angular-login-example",
+  "license": "WTFPL"
+}
